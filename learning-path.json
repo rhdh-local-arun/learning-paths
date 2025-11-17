@@ -1,4 +1,45 @@
-[
+[ {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Linux navigation basics, operating system interaction basics",
+    "label": "Linux Power User: Red Hat Enterprise Linux Technical Overview (RH024)",
+    "url": "https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Linux navigation basics, operating system interaction basics",
+    "label": "Linux Power User: Getting Started with Linux Fundamentals (RH104)",
+    "url": "https://www.redhat.com/en/services/training/red-hat-training-getting-started-with-linux-fundamentals"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Core system administration tasks of Red Hat Enterprise Linux",
+    "label": "Linux Engineer (Foundational): Red Hat System Administration I (RH124)",
+    "url": "https://www.redhat.com/en/services/training/rh124-red-hat-system-administration-i"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Core system administration tasks of Red Hat Enterprise Linux",
+    "label": "Linux Engineer (Foundational): Red Hat System Administration II (RH134)",
+    "url": "https://www.redhat.com/en/services/training/rh134-red-hat-system-administration-ii"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Advanced troubleshooting and tuning practices on Red Hat Enterprise Linux",
+    "label": "Linux Engineer (Advanced): Red Hat Enterprise Linux Diagnostics and Troubleshooting (RH342)",
+    "url": "https://www.redhat.com/en/services/training/rh342-red-hat-enterprise-linux-diagnostics-and-troubleshooting"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Advanced troubleshooting and tuning practices on Red Hat Enterprise Linux",
+    "label": "Linux Engineer (Advanced): Red Hat Performance Tuning: Linux in Physical, Virtual, and Cloud (RH442)",
+    "url": "https://www.redhat.com/en/services/training/rh442-red-hat-enterprise-performance-tuning"
+  },
   {
     "paths": 6,
     "minutes": 20,
